@@ -1,3 +1,4 @@
+// The employee test file tests for the application
 const Employee = require("../lib/Employee");
 
 test("Can instantiate Employee instance", () => {
